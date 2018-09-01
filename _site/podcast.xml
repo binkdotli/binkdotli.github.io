@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Pieter Muller</title>
+    <description></description>
+    <link>https://binkdotli.micro.blog/</link>
+    <pubDate>Fri, 31 Aug 2018 21:33:14 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Aug 2018 21:33:14 +0200</lastBuildDate>
+	<itunes:image href="https://micro.blog/binkdotli/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Pieter Muller</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Pieter Muller</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<language>en</language>
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+  </channel>
+</rss>
