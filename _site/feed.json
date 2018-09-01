@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Pieter Muller",
+	"home_page_url": "https://binkdotli.micro.blog/",
+	"feed_url": "https://binkdotli.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://binkdotli.micro.blog/2018/08/30/i-dont-know.html",
+	      	
+			"content_html": "<p>I don’t know why Working Copy Enterprise is being kicked out of the App Store, but the developer really did well with the migration process. \n<img src=\"http://binkdotli.micro.blog/uploads/2018/a619369483.jpg\" alt=\"98D5D9A7-1006-4272-8940-BC68F53E9688.jpg\" /></p>\n",
+			"date_published": "2018-08-30T22:04:36+02:00",
+			"url": "https://binkdotli.micro.blog/2018/08/30/i-dont-know.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2018/08/30/tap-tap-is.html",
+	      	
+			"content_html": "<p>Tap tap. Is this thing still on?</p>\n",
+			"date_published": "2018-08-30T21:44:06+02:00",
+			"url": "https://binkdotli.micro.blog/2018/08/30/tap-tap-is.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/06/19/dusted-off-yellofier.html",
+	      	
+			"content_html": "<p>Dusted off Yellofier again. Such a fun app.</p>\n",
+			"date_published": "2017-06-19T20:43:03+02:00",
+			"url": "https://binkdotli.micro.blog/2017/06/19/dusted-off-yellofier.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/06/11/my-phone-was.html",
+	      	
+			"content_html": "<p>My phone was permanently on mute, but now trying without after watching Session 803 Designing Sound. #wwdc2017</p>\n",
+			"date_published": "2017-06-11T18:17:36+02:00",
+			"url": "https://binkdotli.micro.blog/2017/06/11/my-phone-was.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/06/06/devicecheck-is-the.html",
+	      	
+			"content_html": "<p>DeviceCheck is the weirdest API yet. Custom-designed for Uber’s fraud check.</p>\n",
+			"date_published": "2017-06-06T12:43:36+02:00",
+			"url": "https://binkdotli.micro.blog/2017/06/06/devicecheck-is-the.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/05/12/how-to-shoot.html",
+	      	
+			"content_html": "<p>How to shoot on iPhone (7). Great photography tips and beautiful South African subjects. \n<a href=\"https://www.apple.com/iphone/photography-how-to/\">www.apple.com/iphone/ph…</a></p>\n",
+			"date_published": "2017-05-12T08:20:38+02:00",
+			"url": "https://binkdotli.micro.blog/2017/05/12/how-to-shoot.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/05/04/why-do-bose.html",
+	      	
+			"content_html": "<p>Why do Bose Bluetooth headphones need to sync my contacts?</p>\n",
+			"date_published": "2017-05-04T18:26:13+02:00",
+			"url": "https://binkdotli.micro.blog/2017/05/04/why-do-bose.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/05/04/bose-updated-their.html",
+	      	
+			"content_html": "<p>Bose updated their app with a privacy setting to opt out of analytics.</p>\n",
+			"date_published": "2017-05-04T07:42:12+02:00",
+			"url": "https://binkdotli.micro.blog/2017/05/04/bose-updated-their.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/05/02/crossposting-works.html",
+	      	
+			"content_html": "<p>Cross-posting works?</p>\n",
+			"date_published": "2017-05-02T21:46:47+02:00",
+			"url": "https://binkdotli.micro.blog/2017/05/02/crossposting-works.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2017/05/02/just-setting-up.html",
+	      	
+			"content_html": "<p>Just setting up my micro.blog</p>\n",
+			"date_published": "2017-05-02T21:18:48+02:00",
+			"url": "https://binkdotli.micro.blog/2017/05/02/just-setting-up.html"
+		}
+		
+	]
+}
