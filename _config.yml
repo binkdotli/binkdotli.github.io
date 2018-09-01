@@ -1,0 +1,32 @@
+
+title: "Pieter Muller"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/binkdotli\">@binkdotli on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/binkdotli\">@binkdotli on Micro.blog</a>."
+baseurl: ""
+url: "https://binkdotli.micro.blog"
+markdown: "kramdown"
+username: "binkdotli"
+microblog_user: "binkdotli"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Pieter Muller"
+name: "Pieter Muller"
+gravatar_hash: "e4aa0655b3c542b23120fd3360596188"
+avatar: "https://micro.blog/binkdotli/avatar.jpg"
+full_name: "Pieter Muller"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Poland"
+site_id: "1354"
+gems: ["jekyll-paginate"]
+itunes_description: ""
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Pieter Muller"
+itunes_email: ""
+podcast: false
