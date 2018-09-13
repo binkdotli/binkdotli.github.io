@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Pieter Muller",
+	"icon": "https://micro.blog/binkdotli/avatar.jpg",
 	"home_page_url": "https://binkdotli.micro.blog/",
 	"feed_url": "https://binkdotli.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://binkdotli.micro.blog/2018/09/12/i-think-its.html",
+	      	
+			"content_html": "<p>I think it’s going to be the iPhone XR for me, probably in yellow.</p>\n",
+			"date_published": "2018-09-12T21:44:34+02:00",
+			"url": "https://binkdotli.micro.blog/2018/09/12/i-think-its.html"
+		},
 		
 		{
 			"id": "http://binkdotli.micro.blog/2018/09/09/band-of-the.html",
