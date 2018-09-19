@@ -7,13 +7,19 @@
 	"items": [
 		
 		{
-			"id": "http://binkdotli.micro.blog/2018/09/15/swiss-landscape.html",
+			"id": "http://binkdotli.micro.blog/2018/09/19/i-love-the.html",
 	      	
-			"title": "Swiss Landscape",
-			
-			"content_html": "<p><a href=\"http://binkdotli.micro.blog/uploads/2018/0119e266d9.jpg\"><img src=\"http://binkdotli.micro.blog/uploads/2018/0119e266d9.jpg\" width=\"600\" height=\"337\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://binkdotli.micro.blog/uploads/2018/8aba2be483.jpg\"><img src=\"http://binkdotli.micro.blog/uploads/2018/8aba2be483.jpg\" width=\"600\" height=\"337\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n<br />\n[http://binkdotli.micro.blog/uploads/2018/0119e266d9.jpg]\n[http://binkdotli.micro.blog/uploads/2018/8aba2be483.jpg]\nPlaying around with Affinity Photo on the iPad.</p>\n",
-			"date_published": "2018-09-15T11:27:30+02:00",
-			"url": "https://binkdotli.micro.blog/2018/09/15/swiss-landscape.html"
+			"content_html": "<p>I love the new Categories feature in Numbers. Better than Pivot Tables, which were the last thing I missed from Excel.</p>\n",
+			"date_published": "2018-09-19T23:12:44+02:00",
+			"url": "https://binkdotli.micro.blog/2018/09/19/i-love-the.html"
+		},
+		
+		{
+			"id": "http://binkdotli.micro.blog/2018/09/15/playing-around-with.html",
+	      	
+			"content_html": "<p>Playing around with Affinity Photo on the iPad.\n<img src=\"http://binkdotli.micro.blog/uploads/2018/0119e266d9.jpg\" alt=\"Swiss landscape processed\" />\n<img src=\"http://binkdotli.micro.blog/uploads/2018/8aba2be483.jpg\" alt=\"Swiss landscape original\" /></p>\n",
+			"date_published": "2018-09-15T12:08:56+02:00",
+			"url": "https://binkdotli.micro.blog/2018/09/15/playing-around-with.html"
 		},
 		
 		{
